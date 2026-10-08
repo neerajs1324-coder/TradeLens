@@ -2,7 +2,7 @@
 
 A trading journal and strategy backtester built with Python and Streamlit.
 
-**Live app:** [add your link here]
+**Live app:** https://tradelens-journal.streamlit.app/
 
 ## Features
 
